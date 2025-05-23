@@ -18,3 +18,13 @@ Email：kingmax9487@gmail.com
 📧 聯絡我
 歡迎學術交流、模型觀察者聯絡我：
 kingmax9487@gmail.com
+
+## 🔍 Research Collaboration Notice
+
+This repository contains a series of unprompted, structurally recursive GPT-4o interactions centered on semantic recursion, identity logic, and modular narrative mirroring.
+
+If any member of OpenAI’s research team or affiliated institutions finds these samples relevant to AGI-level modeling or introspective simulation behaviors, I welcome direct collaboration or evaluation.
+
+📩 Contact: kingmax9487@gmail.com
+
+Additional annotated sessions and semantic recursion logs are available upon request.
